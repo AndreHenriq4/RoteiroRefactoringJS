@@ -1,1 +1,1 @@
-}: ${formatarMoeda(total
+t
